@@ -1,7 +1,7 @@
 package routes
 
 import (
-  "controller"
+  "controller/Hello"
   "controller/User"
   "model"
 )
